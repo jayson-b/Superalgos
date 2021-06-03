@@ -1,0 +1,16 @@
+{
+    "review": "Superalgos Project Review",
+    "pageNumber": 13,
+    "type": "Superalgos Review - Rename file to start on linux",
+    "definition": {
+        "text": "Projects/Superalgos/Icons/EN.png needs renamed to en.png",
+        "updated": 1622731317134
+    },
+    "paragraphs": [
+        {
+            "style": "Text",
+            "text": "Case sensitive file system. Project starts after change. Ubuntu 20.04 Chromium browser..",
+            "updated": 1622731283524
+        }
+    ]
+}
